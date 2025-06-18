@@ -294,7 +294,7 @@ curl -X GET "https://toktasoft.com/api/duty-pharmacy?api_key=myapikey&il=manisa"
 ## Lisans
 
 ```
-Copyright 2024-2025 Mustafa TOKTAŞ
+Copyright 2025 Mustafa TOKTAŞ
 
 Licensed under the GNU General Public License v3.0 (the "License");
 you may not use this file except in compliance with the License.
